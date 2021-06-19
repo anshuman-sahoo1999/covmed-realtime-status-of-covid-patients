@@ -1,1 +1,1 @@
-# covmed-realtime-status-of-covid-patients
+# Covmed+ Real Time status of Covid Patients
