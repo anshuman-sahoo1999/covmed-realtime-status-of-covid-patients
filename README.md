@@ -5,6 +5,7 @@
 
 (Status of the project:- 56% Completed, rest part of the project is under development which includes some advance features and works in real time scenario.)
 
-Developed by: Anshuman Sahoo
+Designed and Developed by: Anshuman Sahoo
 
+<img width="100%" src="https://github.com/anshuman-sahoo1999/covmed-realtime-status-of-covid-patients/blob/main/20210620_113008_0000.png" alt="cover" />
 
