@@ -4,7 +4,7 @@
 (This project is under progress, will update very soon. This is a web based application in which it will updates the status of each covid patients of a hospital and other features. )
 
 
-(Status of the project:- 60% Completed (As of 22nd June, 2021), rest part of the project is under development which includes some advance features and works in real time scenario.)
+(Status of the project:- 60% Completed (As of 23rd June, 2021), rest part of the project is under development which includes some advance features and works in real time scenario.)
 
 Designed and Developed by: Anshuman Sahoo
 
